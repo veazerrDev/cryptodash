@@ -1,7 +1,7 @@
 import { use, useEffect, useState } from "react"
 import { Routes, Route } from "react-router-dom"
 
-import HomePage from "./pages/Home"
+import HomePage from "./pages/home"
 import AboutPage from "./pages/about"
 import NotFound from "./pages/notFound"
 import CoinDetailsPage from "./pages/coindetails"
